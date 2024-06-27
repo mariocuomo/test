@@ -1,0 +1,13 @@
+﻿usecasename, tactic
+"Credential Exploitation","ResourceDevelopment InitialAccess Execution Persistence PrivilegeEscalation DefenseEvasion CredentialAccess"
+"LateralMovement","Reconnaissance ResourceDevelopment InitialAccess Execution Persistence PrivilegeEscalation DefenseEvasion CredentialAccess Discovery LateralMovement"
+"Rapid Encryption","ReconnaissanceResourceDevelopment InitialAccess Execution Persistence PrivilegeEscalation DefenseEvasion Credential AccessDiscovery LateralMovement Collection CommandControl Exfiltration Impact"
+"CommandControl Communication","ReconnaissanceResourceDevelopment InitialAccess Execution Persistence PrivilegeEscalation DefenseEvasion CredentialAccess Discovery LateralMovement Collection CommandControl"
+"Insider Risk","Execution Persistence PrivilegeEscalation DefenseEvasion DiscoveryLateralMovement Collection Exfiltration Impact"
+"Anomalous Privilege Escalation","Reconnaissance ResourceDevelopment InitialAccess Execution Persistence PrivilegeEscalation"
+"Third-Party Abuses","InitialAccess Execution Persistence PrivilegeEscalation DefenseEvasion Credential AccessDiscovery LateralMovement Collection CommandControl Exfiltration Impact"
+"Overexposure","Reconnaissance ResourceDevelopment InitialAccess PrivilegeEscalation DiscoveryLateralMovement Collection"
+"Data Exfiltration","ReconnaissanceResourceDevelopment InitialAccess Execution Persistence PrivilegeEscalation DefenseEvasion Credential AccessDiscovery LateralMovement Collection CommandControl Exfiltration"
+"Mobile Data Security","Reconnaissance ResourceDevelopment InitialAccess Execution Persistence PrivilegeEscalation DefenseEvasion Credential AccessDiscovery LateralMovement Collection CommandControl Exfiltration Impact"
+"Communication Abuse","InitialAccess Execution Persistence PrivilegeEscalation DefenseEvasion Credential AccessDiscovery LateralMovement Collection CommandControl Exfiltration Impact"
+"Web Application Abuse","InitialAccess Execution Persistence PrivilegeEscalation DefenseEvasion Discovery LateralMovement Collection CommandControl Exfiltration Impact"
